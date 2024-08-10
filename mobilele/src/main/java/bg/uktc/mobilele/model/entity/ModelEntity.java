@@ -17,7 +17,7 @@ public class ModelEntity extends BaseEntity {
     private String imageUrl;
 
     private int startYear;
-    
+
     private Long endYear;
 }
 
